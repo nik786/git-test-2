@@ -1,1 +1,1 @@
-{{"key": "wrong"}}
+{{"key": "correct"}}
