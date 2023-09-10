@@ -1,0 +1,1 @@
+<static-analysis analysis_size_bytes="737637" engine-version="2526536253262652" mitigtated_rating="B" mitigated_score="99" published_date="2023-09-07 05:20:22 UTC" rating="C"  score="80" submitted_date="2023-09-07 05:20:22 UTC" version="BUILDID#1.2.014_Date#2023-09-07_06-06-32">
